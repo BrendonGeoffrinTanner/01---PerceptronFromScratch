@@ -1,0 +1,19 @@
+Fichiers Python
+
+pycache/ *.py[cod]
+
+Environnements virtuels Python
+
+.venv/ venv/
+
+Configuration des éditeurs
+
+.vscode/ .idea/
+
+Fichiers temporaires
+
+*.log .pytest_cache/
+
+Fichiers locaux
+
+.env
